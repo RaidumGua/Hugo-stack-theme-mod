@@ -9,6 +9,7 @@ hidden: false
 comments: true
 draft: true
 ---
+
 # Hello World!
 
 感谢前人的付出：@CaiJimmy 贡献的Hugo-stack-theme，@Mantyke 友邻的不断试错、对该主题的不懈修改和详尽的建站教程，懒蛋呱呱终于也拥有了自己的美观博客！
