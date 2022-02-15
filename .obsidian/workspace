@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/post/HelloWorld.md",
+            "file": "backup/post/2022/0213-Stack-theme-mod.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:foot",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/HelloWorld.md",
+                "file": "backup/post/2022/0213-Stack-theme-mod.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +90,11 @@
   },
   "active": "07158c674b27e219",
   "lastOpenFiles": [
+    "backup/post/2022/0213-Stack-theme-mod.md",
+    "content/page/search/index.md",
+    "content/page/friends/index.md",
+    "content/page/archives/index.md",
+    "content/page/about/index.md",
     "content/post/HelloWorld.md",
     "content/posts/HelloWorld.md",
     "content/post/2021/placeholder-text/index.md",
