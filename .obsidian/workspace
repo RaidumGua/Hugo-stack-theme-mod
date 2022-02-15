@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "c27a43c3c1db6c7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "07158c674b27e219",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "content/post/2021/placeholder-text/index.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2ca445096ad64a65",
+    "type": "split",
+    "children": [
+      {
+        "id": "183765f967564a56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0cd3b9dbff5e25c2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ab74ea118e93c01f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "63fa3bffad7addce",
+    "type": "split",
+    "children": [
+      {
+        "id": "8572da37fe940c6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0aa3cb09f7be5aa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/post/2021/placeholder-text/index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "07158c674b27e219",
+  "lastOpenFiles": [
+    "content/post/2021/placeholder-text/index.md",
+    "content/post/2021/placeholder-text/matt-le-SJSpo9hQf7s-unsplash.jpg",
+    "content/post/2022/0213-Stack-theme-mod.md"
+  ]
+}
