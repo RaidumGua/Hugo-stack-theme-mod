@@ -1,7 +1,7 @@
 ---
 title: "呱呱乐评|2021.10 - 2022.2"
 description: "mastodon上#呱呱soundtrack tag下的无责任乐评存档"
-date: 2022-2-15T21:37:17+08:00
+date: 2022-02-15T21:37:17+08:00
 image: 
 math: 
 license: 
