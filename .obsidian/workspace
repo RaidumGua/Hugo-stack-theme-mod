@@ -7,8 +7,12 @@
         "id": "07158c674b27e219",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "content/post/HelloWorld.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/post/HelloWorld.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,6 +89,8 @@
   },
   "active": "07158c674b27e219",
   "lastOpenFiles": [
+    "content/post/HelloWorld.md",
+    "content/posts/HelloWorld.md",
     "content/post/2021/placeholder-text/index.md",
     "content/post/2021/placeholder-text/matt-le-SJSpo9hQf7s-unsplash.jpg",
     "content/post/2022/0213-Stack-theme-mod.md"
