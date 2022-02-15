@@ -1,7 +1,6 @@
 ---
 title: "呱呱乐评|Pet Shop Boys - Format(2012)"
-description: Pet Shop Boys - Format(2012) 
-Genre:Synth-pop/dance-pop/EDM/art pop
+description: Pet Shop Boys - Format(2012) Genre - Synth-pop/dance-pop/EDM/art pop
 date: 2022-02-15T19:38:17+08:00
 image: 
 math: 
