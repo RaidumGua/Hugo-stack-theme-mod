@@ -1,6 +1,6 @@
 ---
-title: "HelloWorld"
-description: 
+title: "Hello World!"
+description: Hello World! 呱呱的博客上线啦！
 date: 2022-02-15T19:38:17+08:00
 image: 
 math: 
